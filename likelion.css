@@ -1,0 +1,48 @@
+body {
+    box-sizing: border-box;
+    background-color: #e8edf4;
+    
+}
+
+.sr-onlyl {
+    display: none;
+}
+
+.header {
+    margin-top: 100px;
+    text-align: right;
+    background-color: #4286f4;
+    color: white;
+    
+}
+
+.container {
+    width: 1200px;
+    margin-top: 100px;
+   
+    
+}
+
+ li a {
+    color: black;
+}
+
+ h2 {
+     color: #628191;
+ }
+ 
+ .col-1 {
+     background-color: white;
+ }
+ 
+p {
+    font-size:15px;
+    color: #628191;
+}
+
+footer {
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+    background-color: #10346d;
+}
